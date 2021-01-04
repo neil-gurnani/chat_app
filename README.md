@@ -6,5 +6,6 @@ A fully functional chat application developed on socket.io with bootstrap fronte
 
 # To Run the Server and Application 
 ```
-   pip install -r "requirements.txt"
-   python main.py ```
+   pip install -r requirements.txt
+   python main.py 
+```
